@@ -4,6 +4,8 @@ The front-end user interface for the Smart Brain full-stack application. This Re
 
 Detection runs through the Smart Brain API. The backend forwards the image URL to a Hugging Face model and returns bounding boxes, which this app converts and renders on the image.
 
+You can find the Smart Brain - Backend repository here: https://github.com/mairaan/smart-brain-backend
+
 ## Features
 
 - Face Detection UI: Calculates and renders bounding boxes over people in submitted images.
